@@ -1,1 +1,2 @@
-ln -s /_ls_/bin/ls /root/alx-system_engineering-devops/0x00-shell_basics
+#!/bin/bash
+ln -s /_ls_/bin/ls /alx-system_engineering-devops/0x00-shell_basics
